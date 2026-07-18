@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#08080a"/>
+  <rect x="1" y="1" width="1198" height="628" fill="none" stroke="#f6f5f2" stroke-opacity="0.12"/>
+  <text x="60" y="300" font-family="monospace" font-size="20" letter-spacing="4" fill="#d9b36c">AI / MACHINE LEARNING / GENERATIVE AI</text>
+  <text x="60" y="380" font-family="sans-serif" font-size="56" font-weight="700" fill="#f6f5f2">Sam Daniel</text>
+  <text x="60" y="430" font-family="sans-serif" font-size="28" fill="#9c9a94">AI/ML Engineer &amp; Full-Stack Developer</text>
+</svg>
